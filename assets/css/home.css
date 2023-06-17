@@ -1,13 +1,18 @@
 .body {
     margin:0;
     padding: 0;
+    background-image: url("https://marketplace.canva.com/EAE-xnqWvJk/1/0/1600w/canva-retro-smoke-and-round-light-desktop-wallpapers-JLofAI27pCg.jpg");
 }
 
 /* .container {
     margin-top: 70px;
 } */
+.center-text{
+    background-image: url("https://marketplace.canva.com/EAE-xnqWvJk/1/0/1600w/canva-retro-smoke-and-round-light-desktop-wallpapers-JLofAI27pCg.jpg");
+}
 .center-text h1{
     font-size: 44px;
+    color: aliceblue;
     font-family: Franklin Gothic Medium ;
     text-align: center;
     height: 35px;
@@ -16,7 +21,8 @@
     font-size: 22px;
     font-family: Franklin Gothic ;
     text-align: center;
-    color: gray;
+    text-decoration: dashed;
+    color:rgb(197, 236, 25)
 }
 .input-container {
     display: flex;
@@ -26,8 +32,8 @@
     margin: auto;
     width: 70%;
     height: 150px;
-    background-color: #f8f8f8;
-    border: 2px dashed lightgrey;
+    background-image: url("https://marketplace.canva.com/EAE-xnqWvJk/1/0/1600w/canva-retro-smoke-and-round-light-desktop-wallpapers-JLofAI27pCg.jpg");
+    border: 2px dashed rgb(2, 2, 2);
 }
 .upload-btn {
     width: 130px;
@@ -44,7 +50,7 @@
     color:  #f8f8f8;
     font-family: Franklin Gothic;
     text-align: center;
-    background-color: steelblue;
+    background: linear-gradient(to right, #4300b6, #ff008c);
     margin-top: 50px;
 }
 .list-center-text h2 {
@@ -73,7 +79,8 @@ th, td {
   padding: 12px;
 }
 th {
-  background-color: #eee;
+    background: linear-gradient(to right, #4300b6, #ff008c);
+
   font-weight: bold;
 }
 td {
