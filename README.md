@@ -1,12 +1,15 @@
-# CSV_Upload
-CSV_Upload is a web application that allows users to upload and parse CSV files. The application is built with Node.js and Express, and it provides a simple and user-friendly interface for managing CSV data.
+Hii Guyss!!
+I am Joshita and below is my following project.
+
+# CSV_SCANNER
+CSV_SCANNER is a web application that allows users to upload and parse CSV files. The application is built with Node.js and Express, and it provides a simple and user-friendly interface for managing CSV data.
 
 ## Installation
-To install CSV_Upload, please follow these steps:
+To install CSV_SCANNER, following are the steps:
 
 Clone this repository using the following command:
 ```
-$ git clone https://github.com/agentgrey/CSV_Upload.git
+$ git clone https://github.com/joshita014/CSV_SCANNER.git
 ```
 Install the required dependencies using the following command:
 ```
@@ -22,19 +25,19 @@ $ http://localhost:8000
 ```
 
 ## Features
-* CSV file upload: Users can upload CSV files with a simple web form.
+* CSV file Upload: Users can upload CSV files with a simple web form.
 * CSV parsing: The application parses the CSV data and displays it in a table.
 * Searching: Users can search data in the table.
 
 ## API Reference
-CSV_Upload provides a simple API for uploading and parsing CSV files. The API supports the following endpoints:
+CSV_SCANNER provides a simple API for uploading and parsing CSV files. The CRUD API supports the following points:
 
 * POST /upload: Uploads a CSV file and parses the data.
 * GET /data: Returns the parsed CSV data as JSON.
 
 ## Folder Structure
 ```
-CSV_Upload/
+CSV_SCANNER/
 |── |assets/
 │   |      ├── css/
 │   │      |     ├── styles.css
