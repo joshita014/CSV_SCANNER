@@ -34,7 +34,7 @@ CSV_SCANNER provides a simple API for uploading and parsing CSV files. The CRUD 
 
 * POST /upload: Uploads a CSV file and parses the data.
 * GET /data: Returns the parsed CSV data as JSON.
-
+## Hosted URL: https://csv-scanner.onrender.com
 ## Folder Structure
 ```
 CSV_SCANNER/
